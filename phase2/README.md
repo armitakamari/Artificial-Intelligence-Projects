@@ -3,8 +3,8 @@
 This repository contains the second phase of the "Hand of the King" AI project. While Phase 1 focused on adversarial search (Minimax), Phase 2 shifts the paradigm toward **Evolutionary Computing** and **Real-Valued Heuristic Optimization**.
 
  ## Contributors
-     **Armita Kamari** 
-     **Mehrsa Samizadeh** 
+  *   **Armita Kamari** 
+  *   **Mehrsa Samizadeh** 
 
 ## Paradigm Shift: Genetic Heuristics
 Instead of manually tuning the importance of game factors, this agent uses a **Genetic Algorithm (GA)** to evolve the optimal scalar weights for its decision-making engine.
