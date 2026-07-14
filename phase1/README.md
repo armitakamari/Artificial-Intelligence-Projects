@@ -2,6 +2,10 @@
 
 This repository contains the implementation of an intelligent game agent for the "Hand of the King" board game, developed as part of an Artificial Intelligence course project. The agent is designed to control Varys and maximize the collection of valuable character cards and family flags.
 
+## Project Team
+*   **Armita Kamari**  
+*   **Mehrsa Samizadeh**  
+
 ## Key Features & Implementation
 
 The agent utilizes a sophisticated decision-making engine based on the following techniques:
